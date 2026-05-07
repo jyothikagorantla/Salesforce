@@ -1,0 +1,24 @@
+In Salesforce, an Object is like a database table that is used to store information about a specific thing.
+Each object contains:
+Records → individual entries or rows
+Fields → details about those entries or columns
+
+For example, the Student object may contain fields such as:
+
+-Student Name
+-Roll Number
+-Email
+-Phone Number
+Here, each student’s information is stored as a separate record.
+
+Example
+A common Salesforce object is the Account object.
+The Account object stores information about companies or customers, such as:
+
+Company Name
+Address
+Contact Number
+Industry
+So, if a company named “ABC Technologies” is saved in Salesforce, it becomes a record inside the Account object.
+
+In simple words, an object in Salesforce is used to organize and store related data systematically.
