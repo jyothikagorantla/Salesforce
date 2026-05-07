@@ -1,0 +1,8 @@
+In Salesforce, both Admins and Developers work on the same platform, but their roles are different.
+A Salesforce Admin is mainly responsible for managing and maintaining the Salesforce system. They help users, create reports, manage security settings, automate simple business processes, and customize Salesforce using built-in tools without much coding. Their goal is to make the system easy and efficient for employees to use.
+On the other hand, a Salesforce Developer focuses on building custom features and applications using programming. They write code, create advanced automation, integrate Salesforce with other software, and develop solutions that cannot be done using standard settings alone.
+For example, if a company wants to create reports and manage user access, the Admin handles it. But if the company needs a custom application or a complex feature, the Developer builds it using code.
+In simple terms:
+
+A Salesforce Admin manages and configures the platform.
+A Salesforce Developer creates advanced custom solutions through programming.
