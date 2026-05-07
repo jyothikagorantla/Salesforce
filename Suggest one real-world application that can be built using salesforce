@@ -1,0 +1,10 @@
+One real-world application that can be built using Salesforce is a Hospital Management System.
+In this application, Salesforce can be used to manage:
+patient records,
+doctor appointments,
+billing details,
+medical history,
+customer support services.
+For example, when a patient books an appointment, the system can automatically store their details, schedule the appointment with a doctor, send reminder messages, and maintain the patient’s medical records in one place. Hospital staff can quickly access patient information, which helps improve service and reduce paperwork.
+Salesforce can also generate reports about patient visits, doctor performance, and hospital operations, helping management make better decisions.
+In simple words, Salesforce helps build smart business applications that automate processes, organize data, and improve customer or patient experience.
